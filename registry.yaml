@@ -1373,7 +1373,7 @@
   authors:
     - maxreid-openai
   tags:
-    - completions
+    - gpt-actions-library
     - chatgpt
 
 - title: GPT Actions library - Sharepoint (Return Text)
@@ -1382,7 +1382,7 @@
   authors:
     - maxreid-openai
   tags:
-    - completions
+    - gpt-actions-library
     - chatgpt
 
 - title: GPT Actions library (Middleware) - Azure Functions
@@ -1391,7 +1391,7 @@
   authors:
     - maxreid-openai
   tags:
-    - completions
+    - gpt-actions-library
     - chatgpt
 
 - title: GPT Actions library - Canvas LMS
@@ -1454,8 +1454,29 @@
   authors:
     - evanweiss-openai
   tags:
+    - chatgpt
+    - gpt-actions-library
+
+- title: GPT Actions library - Box
+  path: examples/chatgpt/gpt_actions_library/gpt_action_box.ipynb
+  date: 2024-08-02
+  authors:
+    - keelan-openai
+  tags:
     - gpt-actions-library
     - chatgpt
+
+- title: GCP BigQuery Vector Search with GCP Functions and GPT Actions in ChatGPT
+  path: examples/chatgpt/rag-quickstart/gcp/Getting_started_with_bigquery_vector_search_and_openai.ipynb
+  date: 2024-08-02
+  authors:
+    - pap-openai
+    - maxreid-openai
+  tags:
+    - embeddings
+    - chatgpt
+    - tiktoken
+    - completions
 
 - title: GPT Actions library - Zapier
   path: examples/chatgpt/gpt_actions_library/gpt_action_zapier.ipynb
